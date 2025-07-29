@@ -6,6 +6,7 @@ import random
 from collections import deque
 
 # Initialize Pygame with better settings
+
 pygame.init()
 width, height = 800, 800  # Larger window for better visualization
 screen = pygame.display.set_mode((width, height))
